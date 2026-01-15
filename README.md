@@ -39,7 +39,7 @@ The task focuses on building a strong foundation in cyber security by exploring:
 
 - Web Browser (Research & References)
 - OWASP Official Documentation
-- Microsoft Word
+- Microsoft Word / Google Docs
 - GitHub
 
 
