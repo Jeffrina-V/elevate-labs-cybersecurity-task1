@@ -61,3 +61,18 @@ This task improved my understanding of cyber security basics, threat awareness, 
 - Organization: Elevate Labs  
 - Domain:Cyber Security  
 - Task: Task 1
+
+
+## Pseudo Code: Application Data Flow and Attack Points
+| Stage          | Possible Attack |
+|----------------|----------------|
+| User Input     | Phishing |
+| Data Transfer  | MITM |
+| Server         | Misconfiguration |
+| Database       | SQL Injection |
+
+
+
+User → Application → Server → Database
+        ↑              ↓
+     Phishing        SQL Injection
