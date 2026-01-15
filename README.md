@@ -2,6 +2,9 @@
 
 # Cyber Security Internship – Task 1  
 ## Understanding Cyber Security Basics & Attack Surface
+##Task_pdf_link 
+https://drive.google.com/file/d/1v8o6SXHRgRaRc6RR3JFFY1VeTyfMM6Bp/view?usp=drivesdk
+
 
 This repository contains **Task 1** completed as part of the **Cyber Security Internship at Elevate Labs**.  
 The objective of this task is to understand **basic cyber security concepts**, common **attackers**, **attack surfaces**, and awareness of **OWASP Top 10 vulnerabilities**.
